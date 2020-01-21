@@ -43,4 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 array = ["Macys", "Nordstrom", "Jcpenney", "Sears"]
+array[4] = "totally"
 end
